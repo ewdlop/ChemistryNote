@@ -1,5 +1,31 @@
 # ChemistryNote
 
+## Lab Safety
+
+Here are more specific project concepts suitable for a 100-level course:
+
+- Study of bacterial growth on different surfaces under varying humidity conditions
+- Analysis of vitamin C content in fresh vs stored fruits using titration methods
+- Investigation of natural indicators (red cabbage, turmeric) for pH measurement
+- Comparison of different methods for extracting DNA from fruits
+- Study of the effects of caffeine on plant growth and development
+- Analysis of local water hardness and its effects on soap effectiveness
+
+Equipment and Materials Considerations:
+
+- Basic laboratory glassware and measurement tools
+- pH meters or test strips
+- Digital scales for precise measurements
+- Microscopes for cellular observations
+- Data logging software for record keeping
+
+Safety Considerations:
+
+- Always wear appropriate personal protective equipment (PPE)
+- Follow proper waste disposal procedures
+- Maintain sterile conditions when working with microorganisms
+- Document all safety protocols and emergency procedures
+
 ### **Molecular Spectrum**
 The molecular spectrum involves studying the absorption, emission, or scattering of electromagnetic radiation by molecules. It's key in identifying molecular structure and composition.
 
